@@ -1,4 +1,4 @@
-# 🖋️ FontStory Text Style Format
+# 🖋️ Font Story Text Style Format
 
 This project supports **layered, configurable text effects** defined entirely through JSON. Without writing any Dart code, you can create complex visual styles (e.g. shadows, outlines, colorful layers) that are rendered inside the Flutter app.
 
