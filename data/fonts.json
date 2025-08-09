@@ -1,0 +1,132 @@
+{
+  "fonts": {
+    "persian": [
+      {
+        "name": "همت",
+        "url": "/fonts/persian/AHemmat.ttf"
+      },
+      {
+        "name": "آوینی",
+        "url": "/fonts/persian/Aviny.ttf"
+      },
+      {
+        "name": "برندو",
+        "url": "/fonts/persian/Brando.otf"
+      },
+      {
+        "name": "دیودرام",
+        "url": "/fonts/persian/DiodrumArabic.ttf"
+      },
+      {
+        "name": "کازابلانکا",
+        "url": "/fonts/persian/Far_Casablanca.ttf"
+      },
+      {
+        "name": "خودکار",
+        "url": "/fonts/persian/Far_khodkar.ttf"
+      },
+      {
+        "name": "گرافیک",
+        "url": "/fonts/persian/Graphik.otf"
+      },
+      {
+        "name": "آیفون",
+        "url": "/fonts/persian/IOS.ttf"
+      },
+      {
+        "name": "جوان",
+        "url": "/fonts/persian/Javan.ttf"
+      },
+      {
+        "name": "کتیبه",
+        "url": "/fonts/persian/Katibeh.ttf"
+      },
+      {
+        "name": "مثلث",
+        "url": "/fonts/persian/Mosalas.ttf"
+      },
+      {
+        "name": "نوژا",
+        "url": "/fonts/persian/Nozha.ttf"
+      },
+      {
+        "name": "ساحل",
+        "url": "/fonts/persian/Sahel.ttf"
+      },
+      {
+        "name": "صمیم",
+        "url": "/fonts/persian/Samim.ttf"
+      },
+      {
+        "name": "شبنم",
+        "url": "/fonts/persian/Shabnam.ttf"
+      },
+      {
+        "name": "تکنو",
+        "url": "/fonts/persian/Techno.ttf"
+      },
+      {
+        "name": "وزیر",
+        "url": "/fonts/persian/Vazir.ttf"
+      },
+      {
+        "name": "یکان بوم",
+        "url": "/fonts/persian/Yekan_Boom.ttf"
+      }
+    ],
+    "english": [
+      {
+        "name": "Audiowide",
+        "url": "/fonts/english/Audiowide.ttf"
+      },
+      {
+        "name": "BebasNeue",
+        "url": "/fonts/english/BebasNeue.ttf"
+      },
+      {
+        "name": "BerkshireSwash",
+        "url": "/fonts/english/BerkshireSwash.ttf"
+      },
+      {
+        "name": "BitcountPropSingle",
+        "url": "/fonts/english/BitcountPropSingle.ttf"
+      },
+      {
+        "name": "CarterOne",
+        "url": "/fonts/english/CarterOne.ttf"
+      },
+      {
+        "name": "Cookie",
+        "url": "/fonts/english/Cookie.ttf"
+      },
+      {
+        "name": "Creepster",
+        "url": "/fonts/english/Creepster.ttf"
+      },
+      {
+        "name": "Exile",
+        "url": "/fonts/english/Exile.ttf"
+      },
+      {
+        "name": "LeckerliOne",
+        "url": "/fonts/english/LeckerliOne.ttf"
+      },
+      {
+        "name": "Monoton",
+        "url": "/fonts/english/Monoton.ttf"
+      },
+      {
+        "name": "RacingSansOne",
+        "url": "/fonts/english/RacingSansOne.ttf"
+      },
+      {
+        "name": "Shrikhand",
+        "url": "/fonts/english/Shrikhand.ttf"
+      },
+      {
+        "name": "WinkyRough",
+        "url": "/fonts/english/WinkyRough.ttf"
+      }
+    ]
+  }
+}
